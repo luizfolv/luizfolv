@@ -1,35 +1,45 @@
-<div align="center">
-    <h1>Hello 👋, my name is Luiz Felipe Oliveira</h1>
-    <a target="_blank" href="https://github.com/luizfolv/luizfolv/blob/main/LEIAME.md"><img src="https://img.shields.io/badge/PT--BR-2a9134?&style=for-the-badge&logo=about_me&logoColor=yellow"/></a> <a target="_blank" href="https://api.whatsapp.com/send?phone=5521972920398&text=Hey%20Luiz%2C%20I%20came%20by%20your%20github"><img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white"/></a> <a target="_blank" href="https://www.linkedin.com/in/luizfolv/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a target="_blank" href="https://t.me/felk09"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a> <a href="mailto:luizfelipeoliveira023@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-    <h4>
-        Fullstack developer
-    </h4>
-    <p> I'm a developer since 2020, and I work with what I love! </p>
-    <p> I'm currently on "sistemas de informação" on UniLaSalle-RJ </p>
-    <p> I love programming, for me, there is no bug that can't be solved after a good coffee and half an hour of search and studies.</p>
-  
+## Sobre mim
 
-    
-<hr>
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Graduação completa em Sistemas de Informação, pela UniLaSalle do Rio de Janeiro.
+- 💼 Trabalhando como Desenvolvedor FullStack.
 
-### What technologies do I have work experience with?
-<br>
+## Minhas Skills
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
+**Aplicações e dados**
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwind-css&logoColor=38B2AC)
+![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js&logoColor=4FC08D)
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-333333?style=flat&logo=nuxt.js&logoColor=00DC82)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=306998)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=spring&logoColor=6DB33F)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws&logoColor=FF9900)
+
+**Utilidades**
+
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+
+**DevOps**
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+
+**Ferramentas de desenvolvimento**
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellij-idea&logoColor=000000)
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
 
 
-![](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)    
-    
-<hr>
+<br/>
 
-</div>
+## Onde me encontrar
+
+[![Linkedin](https://img.shields.io/badge/-luizfolv-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizfolv/)](https://www.linkedin.com/in/luizfolv/)
+[![Gmail Badge](https://img.shields.io/badge/-luizfelipeoliveira023@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luizfelipeoliveira023@gmail.com)](mailto:luizfelipeoliveira023@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/luizfolv?label=follow&style=social)](https://github.com/luizfolv)
